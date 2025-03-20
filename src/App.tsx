@@ -13,15 +13,15 @@ export default function Page() {
   const getNoButtonText = () => {
     const phrases = [
       "No",
+      "NO",
+      "NOO?",
       "Are you sure?",
-      "Really sure?",
-      "100% sure?",
-      "Are you absolutely sure?",
-      "Are you absolutely absolutely sure?",
-      "I'm gonna cry...",
-      "You're breaking my heart...",
-      "Don't go breaking my heart...",
-      "I guess no snake plants for you...",
+      "like sure sure?",
+      "like VERRYY sure?",
+      "Plwease?",
+      "Babby?",
+      "Yahi dosti?",
+      "Yahi pyaar?",
     ];
 
     return phrases[Math.min(noCount, phrases.length - 1)];
@@ -64,3 +64,4 @@ export default function Page() {
     </div>
   );
 }
+
