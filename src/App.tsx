@@ -47,7 +47,7 @@ export default function Page() {
             alt="bear hugging"
             src="https://gifdb.com/images/high/cute-love-bear-roses-ou7zho5oosxnpo6k.gif"
           />
-          <h1 className="text-container">Will you be my Valentine? </h1>
+          <h1 className="text-container">Sowwy cutu...Forgive me? </h1>
           <div>
             <button
               className="yes-button"
