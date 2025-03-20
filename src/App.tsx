@@ -14,16 +14,16 @@ export default function Page() {
     const phrases = [
       "No",
       "NO",
-      "NOO?",
-      "Are you sure?",
-      "like sure sure?",
-      "like VERRYY sure?",
-      "Plwease?",
+      "NOO",
+      "Still no? :( ?",
+      "Really?",
+      "sure?",
+      "like SURE sure?",
+      "Plwese?",
       "Babby?",
-      "Yahi dosti?",
-      "Yahi pyaar?",
       "final No?",
-      "No.?",
+      "No? No?",
+      "No?",
     ];
 
     return phrases[Math.min(noCount, phrases.length - 1)];
@@ -47,7 +47,7 @@ export default function Page() {
             alt="bear hugging"
             src="https://gifdb.com/images/high/cute-love-bear-roses-ou7zho5oosxnpo6k.gif"
           />
-          <h1 className="text-container">Sowwy cutu...Forgive me? </h1>
+          <h1 className="text-container">I am Sowwy...forgive me? </h1>
           <div>
             <button
               className="yes-button"
@@ -66,4 +66,3 @@ export default function Page() {
     </div>
   );
 }
-
