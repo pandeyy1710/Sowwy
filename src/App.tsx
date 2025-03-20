@@ -21,7 +21,9 @@ export default function Page() {
       "Plwease?",
       "Babby?",
       "Yahi dosti?",
-      "Yahi pyaar?",
+      "Yahi pyaar?"
+      "final No?"
+      "No.?",
     ];
 
     return phrases[Math.min(noCount, phrases.length - 1)];
