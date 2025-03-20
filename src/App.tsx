@@ -21,8 +21,8 @@ export default function Page() {
       "Plwease?",
       "Babby?",
       "Yahi dosti?",
-      "Yahi pyaar?"
-      "final No?"
+      "Yahi pyaar?",
+      "final No?",
       "No.?",
     ];
 
